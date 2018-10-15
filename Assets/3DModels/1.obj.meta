@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: 801252a12925d47d39735e84887631f8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Suitcase_24_hours_Dollars_Null_22_Null_10
+    100004: Suitcase_24_hours_Dollars_Null_22_Null_11
+    100006: Suitcase_24_hours_Dollars_Null_22_Null_12
+    100008: Suitcase_24_hours_Dollars_Null_22_Null_13
+    100010: Suitcase_24_hours_Dollars_Null_22_Null_2
+    100012: Suitcase_24_hours_Dollars_Null_22_Null_32
+    100014: Suitcase_24_hours_Dollars_Null_22_Null_41
+    100016: Suitcase_24_hours_Dollars_Null_22_Null_51
+    100018: Suitcase_24_hours_Dollars_Null_22_Null_61
+    100020: Suitcase_24_hours_Dollars_Null_22_Null_71
+    100022: Suitcase_24_hours_Dollars_Null_22_Null_8
+    100024: Suitcase_24_hours_Dollars_Null_22_Null_9
+    100026: Suitcase_24_hours_Dollars_Null_31_Null_101
+    100028: Suitcase_24_hours_Dollars_Null_31_Null_111
+    100030: Suitcase_24_hours_Dollars_Null_31_Null_121
+    100032: Suitcase_24_hours_Dollars_Null_31_Null_131
+    100034: Suitcase_24_hours_Dollars_Null_31_Null_21
+    100036: Suitcase_24_hours_Dollars_Null_31_Null_3
+    100038: Suitcase_24_hours_Dollars_Null_31_Null_4
+    100040: Suitcase_24_hours_Dollars_Null_31_Null_5
+    100042: Suitcase_24_hours_Dollars_Null_31_Null_6
+    100044: Suitcase_24_hours_Dollars_Null_31_Null_7
+    100046: Suitcase_24_hours_Dollars_Null_31_Null_81
+    100048: Suitcase_24_hours_Dollars_Null_31_Null_91
+    100050: Suitcase_24_hours_Down_Cube
+    100052: Suitcase_24_hours_Down_Cube_2
+    100054: Suitcase_24_hours_Down_Cube_3
+    100056: Suitcase_24_hours_Down_Cube_4
+    100058: Suitcase_24_hours_Down_Cube_5
+    100060: Suitcase_24_hours_Down_Cube_6
+    100062: Suitcase_24_hours_Down_Cube_72
+    100064: Suitcase_24_hours_Down_Cube_8
+    100066: Suitcase_24_hours_Down_Cube_9
+    100068: Suitcase_24_hours_Down_Cylinder
+    100070: Suitcase_24_hours_Down_Cylinder_1
+    100072: Suitcase_24_hours_Down_HyperNURBS_1
+    100074: Suitcase_24_hours_Top_Cube_1
+    100076: Suitcase_24_hours_Top_Cube_7
+    100078: Suitcase_24_hours_Top_Cube_71
+    100080: Suitcase_24_hours_Top_Cylinder_2
+    100082: Suitcase_24_hours_Top_Cylinder_21
+    100084: Suitcase_24_hours_Top_Null_Cube_61
+    100086: Suitcase_24_hours_Top_Null_Cube_62
+    400000: //RootNode
+    400002: Suitcase_24_hours_Dollars_Null_22_Null_10
+    400004: Suitcase_24_hours_Dollars_Null_22_Null_11
+    400006: Suitcase_24_hours_Dollars_Null_22_Null_12
+    400008: Suitcase_24_hours_Dollars_Null_22_Null_13
+    400010: Suitcase_24_hours_Dollars_Null_22_Null_2
+    400012: Suitcase_24_hours_Dollars_Null_22_Null_32
+    400014: Suitcase_24_hours_Dollars_Null_22_Null_41
+    400016: Suitcase_24_hours_Dollars_Null_22_Null_51
+    400018: Suitcase_24_hours_Dollars_Null_22_Null_61
+    400020: Suitcase_24_hours_Dollars_Null_22_Null_71
+    400022: Suitcase_24_hours_Dollars_Null_22_Null_8
+    400024: Suitcase_24_hours_Dollars_Null_22_Null_9
+    400026: Suitcase_24_hours_Dollars_Null_31_Null_101
+    400028: Suitcase_24_hours_Dollars_Null_31_Null_111
+    400030: Suitcase_24_hours_Dollars_Null_31_Null_121
+    400032: Suitcase_24_hours_Dollars_Null_31_Null_131
+    400034: Suitcase_24_hours_Dollars_Null_31_Null_21
+    400036: Suitcase_24_hours_Dollars_Null_31_Null_3
+    400038: Suitcase_24_hours_Dollars_Null_31_Null_4
+    400040: Suitcase_24_hours_Dollars_Null_31_Null_5
+    400042: Suitcase_24_hours_Dollars_Null_31_Null_6
+    400044: Suitcase_24_hours_Dollars_Null_31_Null_7
+    400046: Suitcase_24_hours_Dollars_Null_31_Null_81
+    400048: Suitcase_24_hours_Dollars_Null_31_Null_91
+    400050: Suitcase_24_hours_Down_Cube
+    400052: Suitcase_24_hours_Down_Cube_2
+    400054: Suitcase_24_hours_Down_Cube_3
+    400056: Suitcase_24_hours_Down_Cube_4
+    400058: Suitcase_24_hours_Down_Cube_5
+    400060: Suitcase_24_hours_Down_Cube_6
+    400062: Suitcase_24_hours_Down_Cube_72
+    400064: Suitcase_24_hours_Down_Cube_8
+    400066: Suitcase_24_hours_Down_Cube_9
+    400068: Suitcase_24_hours_Down_Cylinder
+    400070: Suitcase_24_hours_Down_Cylinder_1
+    400072: Suitcase_24_hours_Down_HyperNURBS_1
+    400074: Suitcase_24_hours_Top_Cube_1
+    400076: Suitcase_24_hours_Top_Cube_7
+    400078: Suitcase_24_hours_Top_Cube_71
+    400080: Suitcase_24_hours_Top_Cylinder_2
+    400082: Suitcase_24_hours_Top_Cylinder_21
+    400084: Suitcase_24_hours_Top_Null_Cube_61
+    400086: Suitcase_24_hours_Top_Null_Cube_62
+    2300000: Suitcase_24_hours_Dollars_Null_22_Null_10
+    2300002: Suitcase_24_hours_Dollars_Null_22_Null_11
+    2300004: Suitcase_24_hours_Dollars_Null_22_Null_12
+    2300006: Suitcase_24_hours_Dollars_Null_22_Null_13
+    2300008: Suitcase_24_hours_Dollars_Null_22_Null_2
+    2300010: Suitcase_24_hours_Dollars_Null_22_Null_32
+    2300012: Suitcase_24_hours_Dollars_Null_22_Null_41
+    2300014: Suitcase_24_hours_Dollars_Null_22_Null_51
+    2300016: Suitcase_24_hours_Dollars_Null_22_Null_61
+    2300018: Suitcase_24_hours_Dollars_Null_22_Null_71
+    2300020: Suitcase_24_hours_Dollars_Null_22_Null_8
+    2300022: Suitcase_24_hours_Dollars_Null_22_Null_9
+    2300024: Suitcase_24_hours_Dollars_Null_31_Null_101
+    2300026: Suitcase_24_hours_Dollars_Null_31_Null_111
+    2300028: Suitcase_24_hours_Dollars_Null_31_Null_121
+    2300030: Suitcase_24_hours_Dollars_Null_31_Null_131
+    2300032: Suitcase_24_hours_Dollars_Null_31_Null_21
+    2300034: Suitcase_24_hours_Dollars_Null_31_Null_3
+    2300036: Suitcase_24_hours_Dollars_Null_31_Null_4
+    2300038: Suitcase_24_hours_Dollars_Null_31_Null_5
+    2300040: Suitcase_24_hours_Dollars_Null_31_Null_6
+    2300042: Suitcase_24_hours_Dollars_Null_31_Null_7
+    2300044: Suitcase_24_hours_Dollars_Null_31_Null_81
+    2300046: Suitcase_24_hours_Dollars_Null_31_Null_91
+    2300048: Suitcase_24_hours_Down_Cube
+    2300050: Suitcase_24_hours_Down_Cube_2
+    2300052: Suitcase_24_hours_Down_Cube_3
+    2300054: Suitcase_24_hours_Down_Cube_4
+    2300056: Suitcase_24_hours_Down_Cube_5
+    2300058: Suitcase_24_hours_Down_Cube_6
+    2300060: Suitcase_24_hours_Down_Cube_72
+    2300062: Suitcase_24_hours_Down_Cube_8
+    2300064: Suitcase_24_hours_Down_Cube_9
+    2300066: Suitcase_24_hours_Down_Cylinder
+    2300068: Suitcase_24_hours_Down_Cylinder_1
+    2300070: Suitcase_24_hours_Down_HyperNURBS_1
+    2300072: Suitcase_24_hours_Top_Cube_1
+    2300074: Suitcase_24_hours_Top_Cube_7
+    2300076: Suitcase_24_hours_Top_Cube_71
+    2300078: Suitcase_24_hours_Top_Cylinder_2
+    2300080: Suitcase_24_hours_Top_Cylinder_21
+    2300082: Suitcase_24_hours_Top_Null_Cube_61
+    2300084: Suitcase_24_hours_Top_Null_Cube_62
+    3300000: Suitcase_24_hours_Dollars_Null_22_Null_10
+    3300002: Suitcase_24_hours_Dollars_Null_22_Null_11
+    3300004: Suitcase_24_hours_Dollars_Null_22_Null_12
+    3300006: Suitcase_24_hours_Dollars_Null_22_Null_13
+    3300008: Suitcase_24_hours_Dollars_Null_22_Null_2
+    3300010: Suitcase_24_hours_Dollars_Null_22_Null_32
+    3300012: Suitcase_24_hours_Dollars_Null_22_Null_41
+    3300014: Suitcase_24_hours_Dollars_Null_22_Null_51
+    3300016: Suitcase_24_hours_Dollars_Null_22_Null_61
+    3300018: Suitcase_24_hours_Dollars_Null_22_Null_71
+    3300020: Suitcase_24_hours_Dollars_Null_22_Null_8
+    3300022: Suitcase_24_hours_Dollars_Null_22_Null_9
+    3300024: Suitcase_24_hours_Dollars_Null_31_Null_101
+    3300026: Suitcase_24_hours_Dollars_Null_31_Null_111
+    3300028: Suitcase_24_hours_Dollars_Null_31_Null_121
+    3300030: Suitcase_24_hours_Dollars_Null_31_Null_131
+    3300032: Suitcase_24_hours_Dollars_Null_31_Null_21
+    3300034: Suitcase_24_hours_Dollars_Null_31_Null_3
+    3300036: Suitcase_24_hours_Dollars_Null_31_Null_4
+    3300038: Suitcase_24_hours_Dollars_Null_31_Null_5
+    3300040: Suitcase_24_hours_Dollars_Null_31_Null_6
+    3300042: Suitcase_24_hours_Dollars_Null_31_Null_7
+    3300044: Suitcase_24_hours_Dollars_Null_31_Null_81
+    3300046: Suitcase_24_hours_Dollars_Null_31_Null_91
+    3300048: Suitcase_24_hours_Down_Cube
+    3300050: Suitcase_24_hours_Down_Cube_2
+    3300052: Suitcase_24_hours_Down_Cube_3
+    3300054: Suitcase_24_hours_Down_Cube_4
+    3300056: Suitcase_24_hours_Down_Cube_5
+    3300058: Suitcase_24_hours_Down_Cube_6
+    3300060: Suitcase_24_hours_Down_Cube_72
+    3300062: Suitcase_24_hours_Down_Cube_8
+    3300064: Suitcase_24_hours_Down_Cube_9
+    3300066: Suitcase_24_hours_Down_Cylinder
+    3300068: Suitcase_24_hours_Down_Cylinder_1
+    3300070: Suitcase_24_hours_Down_HyperNURBS_1
+    3300072: Suitcase_24_hours_Top_Cube_1
+    3300074: Suitcase_24_hours_Top_Cube_7
+    3300076: Suitcase_24_hours_Top_Cube_71
+    3300078: Suitcase_24_hours_Top_Cylinder_2
+    3300080: Suitcase_24_hours_Top_Cylinder_21
+    3300082: Suitcase_24_hours_Top_Null_Cube_61
+    3300084: Suitcase_24_hours_Top_Null_Cube_62
+    4300000: Suitcase_24_hours_Dollars_Null_22_Null_10
+    4300002: Suitcase_24_hours_Dollars_Null_22_Null_11
+    4300004: Suitcase_24_hours_Dollars_Null_22_Null_12
+    4300006: Suitcase_24_hours_Dollars_Null_22_Null_13
+    4300008: Suitcase_24_hours_Dollars_Null_22_Null_2
+    4300010: Suitcase_24_hours_Dollars_Null_22_Null_32
+    4300012: Suitcase_24_hours_Dollars_Null_22_Null_41
+    4300014: Suitcase_24_hours_Dollars_Null_22_Null_51
+    4300016: Suitcase_24_hours_Dollars_Null_22_Null_61
+    4300018: Suitcase_24_hours_Dollars_Null_22_Null_71
+    4300020: Suitcase_24_hours_Dollars_Null_22_Null_8
+    4300022: Suitcase_24_hours_Dollars_Null_22_Null_9
+    4300024: Suitcase_24_hours_Dollars_Null_31_Null_101
+    4300026: Suitcase_24_hours_Dollars_Null_31_Null_111
+    4300028: Suitcase_24_hours_Dollars_Null_31_Null_121
+    4300030: Suitcase_24_hours_Dollars_Null_31_Null_131
+    4300032: Suitcase_24_hours_Dollars_Null_31_Null_21
+    4300034: Suitcase_24_hours_Dollars_Null_31_Null_3
+    4300036: Suitcase_24_hours_Dollars_Null_31_Null_4
+    4300038: Suitcase_24_hours_Dollars_Null_31_Null_5
+    4300040: Suitcase_24_hours_Dollars_Null_31_Null_6
+    4300042: Suitcase_24_hours_Dollars_Null_31_Null_7
+    4300044: Suitcase_24_hours_Dollars_Null_31_Null_81
+    4300046: Suitcase_24_hours_Dollars_Null_31_Null_91
+    4300048: Suitcase_24_hours_Down_Cube
+    4300050: Suitcase_24_hours_Down_Cube_2
+    4300052: Suitcase_24_hours_Down_Cube_3
+    4300054: Suitcase_24_hours_Down_Cube_4
+    4300056: Suitcase_24_hours_Down_Cube_5
+    4300058: Suitcase_24_hours_Down_Cube_6
+    4300060: Suitcase_24_hours_Down_Cube_72
+    4300062: Suitcase_24_hours_Down_Cube_8
+    4300064: Suitcase_24_hours_Down_Cube_9
+    4300066: Suitcase_24_hours_Down_Cylinder
+    4300068: Suitcase_24_hours_Down_Cylinder_1
+    4300070: Suitcase_24_hours_Down_HyperNURBS_1
+    4300072: Suitcase_24_hours_Top_Cube_1
+    4300074: Suitcase_24_hours_Top_Cube_7
+    4300076: Suitcase_24_hours_Top_Cube_71
+    4300078: Suitcase_24_hours_Top_Cylinder_2
+    4300080: Suitcase_24_hours_Top_Cylinder_21
+    4300082: Suitcase_24_hours_Top_Null_Cube_61
+    4300084: Suitcase_24_hours_Top_Null_Cube_62
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_22_Null_10Mat
+    second: {fileID: 2100000, guid: c6c46b13fdcf44ebfbd3f6dfb78dd01d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_22_Null_11Mat
+    second: {fileID: 2100000, guid: 6f03292479d4c49a5a29dfa84bb96894, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_22_Null_12Mat
+    second: {fileID: 2100000, guid: dab14207eaa384e739c9423d15cf852e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_22_Null_13Mat
+    second: {fileID: 2100000, guid: 86e3294c2b8ff4a29bdb2875b394b4e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_22_Null_2Mat
+    second: {fileID: 2100000, guid: 3eed11972e3f04adaa929ebefc86ed29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_22_Null_32Mat
+    second: {fileID: 2100000, guid: 70ffbd7fa3b624e9e838d64636c2dc48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_22_Null_41Mat
+    second: {fileID: 2100000, guid: 4dc0eb971cd3746778170b70c11b76de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_22_Null_51Mat
+    second: {fileID: 2100000, guid: 8f5a1f327a45d46f3ab316cbc3a7bc24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_22_Null_61Mat
+    second: {fileID: 2100000, guid: 791bb541fd9c24f3f92250b48f6708ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_22_Null_71Mat
+    second: {fileID: 2100000, guid: c7533b4fa603b443589c1de561b1f890, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_22_Null_8Mat
+    second: {fileID: 2100000, guid: e8c62149c498e456681cab05eb4c5ddb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_22_Null_9Mat
+    second: {fileID: 2100000, guid: ab48aa26b6296411a8746dfc84e691c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_31_Null_101Mat
+    second: {fileID: 2100000, guid: ab138f859102243a98668c56c3a33774, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_31_Null_111Mat
+    second: {fileID: 2100000, guid: a5fd5abbdf0054229aa6b9e82ea8a1bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_31_Null_121Mat
+    second: {fileID: 2100000, guid: de93a2e779d5c47c08229f2bb42dc7da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_31_Null_131Mat
+    second: {fileID: 2100000, guid: 70fff1a7b51204c34b7094f2060db2a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_31_Null_21Mat
+    second: {fileID: 2100000, guid: 0e5bc2d71f56240da967fde37984e016, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_31_Null_3Mat
+    second: {fileID: 2100000, guid: 3e259c365c8774284bb307818e0417d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_31_Null_4Mat
+    second: {fileID: 2100000, guid: 6bbaa0dc82d1e4c3d8acf24ae1fba7a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_31_Null_5Mat
+    second: {fileID: 2100000, guid: 278f37840dba146bf9982f6da26f087f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_31_Null_6Mat
+    second: {fileID: 2100000, guid: 7635703b2d1c04f5a8d4d9439ecac5bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_31_Null_7Mat
+    second: {fileID: 2100000, guid: bbb717d58ab7f48c78c03316afcdb435, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_31_Null_81Mat
+    second: {fileID: 2100000, guid: fccbdaece88e1456db76dec187407f6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Dollars_Null_31_Null_91Mat
+    second: {fileID: 2100000, guid: 4dc94f4b565964a769c8df4f15615a01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Down_CubeMat
+    second: {fileID: 2100000, guid: 8bbdd909ed9b542d09ed29e5dad11b32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Down_Cube_2Mat
+    second: {fileID: 2100000, guid: e927eb3b6e4dc40cbac9db8d92408bc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Down_Cube_3Mat
+    second: {fileID: 2100000, guid: 32b37c4c19b674507a33cbb4d3edb9d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Down_Cube_4Mat
+    second: {fileID: 2100000, guid: 70f2ddc4e0b5d44159c26d6b7f09b897, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Down_Cube_5Mat
+    second: {fileID: 2100000, guid: dd2c1a931bfb549919cc69d866cf47a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Down_Cube_6Mat
+    second: {fileID: 2100000, guid: 3efffe873acab47c0b599abed8e2c41d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Down_Cube_72Mat
+    second: {fileID: 2100000, guid: 18afdb87599fa44e894902999c4e844b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Down_Cube_8Mat
+    second: {fileID: 2100000, guid: e89072b5935a240809520fa71814b144, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Down_Cube_9Mat
+    second: {fileID: 2100000, guid: 6e57725a173fb4d908a51c844cbaab15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Down_CylinderMat
+    second: {fileID: 2100000, guid: cc15bc033d02648fd902fe60ee42b8fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Down_Cylinder_1Mat
+    second: {fileID: 2100000, guid: 05e76fff98efb4e0e98796025db45edc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Down_HyperNURBS_1Mat
+    second: {fileID: 2100000, guid: e0a84c99ed59f4fae96d1b49fdeb466a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Top_Cube_1Mat
+    second: {fileID: 2100000, guid: b915fb55d5c534febb028a9def12d2da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Top_Cube_71Mat
+    second: {fileID: 2100000, guid: 1eab4dc48a00449aaa2d8afc4906bfe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Top_Cube_7Mat
+    second: {fileID: 2100000, guid: 82926483ed3094365bfdca665c849dd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Top_Cylinder_21Mat
+    second: {fileID: 2100000, guid: 878024b6db2354b329118e47b89d5841, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Top_Cylinder_2Mat
+    second: {fileID: 2100000, guid: 8e68f4db88d12488b8dd477b53647180, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Top_Null_Cube_61Mat
+    second: {fileID: 2100000, guid: c1f62aa21334f46c788b54ed00a290cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suitcase_24_hours_Top_Null_Cube_62Mat
+    second: {fileID: 2100000, guid: a2af316b4b5d54cd995aaf4247340c30, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
